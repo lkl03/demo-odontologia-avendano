@@ -1,2 +1,7 @@
-# demo-odontologia-avendano
-Demo web para Odontología Avendaño — diseñada por eterlab.
+# Odontología Avendaño
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
